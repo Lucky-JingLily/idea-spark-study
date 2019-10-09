@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+### lipeijing-diy template
+**/*iml*
+*idea*
+*.class
+**/target/**
+**/log**
+**/logs/**
+*.log
+*.pkl
+*.pyc
+build
+dist
+*egg*
+**/scalastyle-output.xml
+*dependency-reduced-pom.xml
+*.iml
+.DS_Store
